@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/all-hooks-react/static/css/main.4037f38d.chunk.css",
+    "main.js": "/all-hooks-react/static/js/main.4e6b9ab8.chunk.js",
+    "main.js.map": "/all-hooks-react/static/js/main.4e6b9ab8.chunk.js.map",
+    "runtime-main.js": "/all-hooks-react/static/js/runtime-main.31c311d9.js",
+    "runtime-main.js.map": "/all-hooks-react/static/js/runtime-main.31c311d9.js.map",
+    "static/js/2.5cc2e332.chunk.js": "/all-hooks-react/static/js/2.5cc2e332.chunk.js",
+    "static/js/2.5cc2e332.chunk.js.map": "/all-hooks-react/static/js/2.5cc2e332.chunk.js.map",
+    "static/js/3.0f78fcd4.chunk.js": "/all-hooks-react/static/js/3.0f78fcd4.chunk.js",
+    "static/js/3.0f78fcd4.chunk.js.map": "/all-hooks-react/static/js/3.0f78fcd4.chunk.js.map",
+    "index.html": "/all-hooks-react/index.html",
+    "static/css/main.4037f38d.chunk.css.map": "/all-hooks-react/static/css/main.4037f38d.chunk.css.map",
+    "static/js/2.5cc2e332.chunk.js.LICENSE.txt": "/all-hooks-react/static/js/2.5cc2e332.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/all-hooks-react/static/media/Inter-Regular.e148c4a1.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31c311d9.js",
+    "static/js/2.5cc2e332.chunk.js",
+    "static/css/main.4037f38d.chunk.css",
+    "static/js/main.4e6b9ab8.chunk.js"
+  ]
+}
