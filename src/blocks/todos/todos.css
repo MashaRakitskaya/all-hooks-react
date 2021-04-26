@@ -1,0 +1,11 @@
+.todos {
+  padding-top: 46px;
+  display: grid;
+  gap: 20px 0px;
+  margin: 0 auto;
+}
+@media screen and (max-width: 930px) {
+  .todos {
+    width: calc(100% - 20px * 2);
+  }
+}

@@ -1,2 +1,20 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/fonts.css);
+
+@import url(./blocks/page/page.css);
+@import url(./blocks/page/__container/page__container.css);
+
+@import url(./blocks/content/content.css);
+/* 
+@import url(./blocks/add-post/add-post.css);
+@import url(./blocks/add-post/__add-button/add-post__add-button.css); */
+
+@import url(./blocks/add-todo/add-todo.css);
+@import url(./blocks/add-todo/__form/add-todo__form.css);
+@import url(./blocks/add-todo/__input/add-todo__input.css);
+@import url(./blocks/add-todo/__button/add-todo__button.css);
+
+@import url(./blocks/todos/todos.css);
+@import url(./blocks/todo/todo.css);
+@import url(./blocks/todo/__box/todo__box.css);
+@import url(./blocks/todo/__title/todo__title.css);

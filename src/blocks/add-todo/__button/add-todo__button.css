@@ -1,0 +1,19 @@
+.add-todo__button {
+  border: 2px solid #5d0cff;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+  outline: none;
+  border-radius: 2px;
+  background: linear-gradient(
+    90deg,
+    rgba(93, 12, 255, 1) 0%,
+    rgba(155, 0, 250, 1) 100%
+  );
+  color: #fff;
+  border-radius: 0 4px 4px 0;
+}
+.add-todo__button:hover {
+  opacity: 0.6;
+}
