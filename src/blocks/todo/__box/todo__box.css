@@ -1,6 +1,21 @@
 .todo__box {
 }
 .todo__box {
-  background: transparent;
-  border: 2px solid #5d0cff;
+  border-radius: 2px;
+  background: linear-gradient(
+    90deg,
+    rgb(247, 12, 255) 0%,
+    rgb(200, 0, 250) 100%
+  );
+  color: #fff;
+  padding: 14px 32px 14px 14px;
+  cursor: pointer;
+}
+
+.todo__box:hover {
+  background: linear-gradient(
+    90deg,
+    rgb(213, 2, 255) 0%,
+    rgb(129, 0, 250) 100%
+  );
 }

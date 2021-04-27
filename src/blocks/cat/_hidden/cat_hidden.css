@@ -1,0 +1,15 @@
+.cat_hidden {
+  background: url(../../images/cat.svg) no-repeat 50%;
+  background-size: 50px 50px;
+  visibility: hidden;
+  width: 60px;
+  height: 60px;
+  align-self: center;
+  cursor: pointer;
+  /* transition: opacity 0.2s ease; */
+  outline: none;
+  transform: translateY(-50%);
+  animation-name: Appearance;
+  animation-duration: 3s;
+  animation-timing-function: cubic-bezier(0.1, -0.6, 0.2, 0);
+}
