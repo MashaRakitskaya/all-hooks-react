@@ -1,0 +1,9 @@
+.header__link {
+  text-decoration: none;
+  margin-right: 18px;
+  list-style-type: none;
+}
+
+.header__link:nth-child(2n) {
+  margin-right: 0px;
+}

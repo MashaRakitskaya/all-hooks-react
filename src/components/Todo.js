@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Todo(props) {
-console.log('mama');
+// console.log('todo');
     return(
         <article className="todo">
             <div className="todo__box">
