@@ -85,7 +85,7 @@ function Todos({todos, handleAddTodo}) {
                     <button onClick={handleSubmit} className="add-todo__button" type="button">add Todo</button>
                 </form>
 
-                <form className="add-todo__form" onSubmit={handleSubmit} noValidate>
+                <form className="add-todo__form" onSubmit={handleSubmitFoto} noValidate>
                     <input
                         value={src}
                         id='auth-title-input'
